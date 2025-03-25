@@ -1,7 +1,7 @@
 <template>
   <div class="button-wrapper">
     <a href="https://calendly.com/baddonai/hello" target="_blank" class="book-demo-button">
-      <span class="button-text">Book a Demo</span>
+      <span class="button-text">Schedule a call</span>
       <span class="button-icon">→</span>
     </a>
   </div>
