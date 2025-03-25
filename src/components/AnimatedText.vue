@@ -11,9 +11,10 @@ export default {
   data() {
     return {
       texts: [
-        "AI-Powered Defense.",
-        "Air-Gapped LLMs and SLMs.",
-        "Next-Gen Militaries."
+        "AI-Powered Software Development.",
+        "On-Prem, Local LLMs and SLMs.",
+        "Enforcing Coding Standards.",
+        "Keeping Humans in the Loop."
       ],
       currentIndex: 0,
     };
