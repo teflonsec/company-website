@@ -1,6 +1,6 @@
 <template>
   <div class="button-wrapper">
-    <a href="https://calendly.com/your-calendly-link" target="_blank" class="book-demo-button">
+    <a href="https://calendly.com/baddonai/hello" target="_blank" class="book-demo-button">
       <span class="button-text">Book a Demo</span>
       <span class="button-icon">→</span>
     </a>
