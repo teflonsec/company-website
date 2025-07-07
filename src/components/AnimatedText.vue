@@ -11,10 +11,9 @@ export default {
   data() {
     return {
       texts: [
-        "AI-Powered Software Development.",
-        "On-Prem, Local LLMs and SLMs.",
-        "Enforcing Coding Standards.",
-        "Keeping Humans in the Loop."
+        "Forget what you know.",
+        "P=NP",
+        "Next gen security."
       ],
       currentIndex: 0,
     };
