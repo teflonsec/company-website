@@ -11,9 +11,11 @@ export default {
   data() {
     return {
       texts: [
-        "Forget what you know.",
-        "P=NP",
-        "Next gen security."
+        "Cybersecurity, Rebuilt from First Principles.",
+        "What if Cyber Made Sense?",
+        "Where Cyber Meets Clarity.",
+        "Redefining Trust. From the Ground Up.",
+        "Shaping the Next Chapter of Cybersecurity."
       ],
       currentIndex: 0,
     };
