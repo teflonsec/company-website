@@ -1,7 +1,7 @@
 {
-  "name": "baddonai-landing-page",
+  "name": "teflon-landing-page",
   "version": "1.0.0",
-  "description": "BaddonAI, AI-powered defense solutions.",
+  "description": "Teflon Security",
   "main": "src/main.js",
   "scripts": {
     "serve": "vue-cli-service serve",

@@ -4,7 +4,7 @@
       <canvas class="animated-background" ref="animatedBackground"></canvas>
       <main>
         <div class="logo-container">
-          <img src="./assets/logo.svg" alt="BaddonAI Logo" class="logo" />
+          <img src="./assets/logo.svg" alt="Teflon Logo" class="logo" />
           <div class="light-reflection" :class="{ 'animate-reflection': isReflecting }"></div>
         </div>
 
