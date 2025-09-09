@@ -11,11 +11,11 @@ export default {
   data() {
     return {
       texts: [
-        "Cybersecurity, Rebuilt from First Principles.",
-        "What if Cyber Made Sense?",
-        "Where Cyber Meets Clarity.",
-        "Redefining Trust. From the Ground Up.",
-        "Shaping the Next Chapter of Cybersecurity."
+      "DLP That Actually Works.",
+      "No More False Positives.",
+      "Protect Data, Not Noise.",
+      "Autonomous DLP. Zero Friction.",
+      "Your Data. Always Secure."
       ],
       currentIndex: 0,
     };
